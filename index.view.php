@@ -21,7 +21,7 @@
                 </div>
             <?php elseif($enviado): ?>
                 <div class="alert success">
-                    <p>Eviado Correctamente</p>
+                    <p>Enviado Correctamente</p>
                 </div>
             <?php endif ?>
             <input type="submit" name="submit" class="btn btn-primary" value="Enviar correo">
